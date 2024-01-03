@@ -1,0 +1,27 @@
+
+form{
+    text-align: center;
+  }
+  body{
+    background-image: url("https://wallpapers.com/images/featured/supermarket-pictures-brhr0v0zqqxvtafp.jpg");
+    background-repeat: no-repeat;
+    background-size:45cm  45cm;
+  
+    background-position: 1px;
+  
+  }
+  box{
+    position:absolute;
+    top:40%;
+    width: 15cm;
+    margin-left: 5%;
+    transform: translate(-50%,-50%);
+    background-color :antiquewhite; 
+    padding:10px;
+    border: radius 8%;
+  }
+  
+  
+  button:hover{
+    color:rgb(213, 26, 26);
+  }
